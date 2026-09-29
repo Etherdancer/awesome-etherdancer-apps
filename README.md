@@ -12,6 +12,14 @@ Every featured project is engineered around **local-first architecture**, **user
 
 ## 🌟 Featured Showcase Projects
 
+| Project | Platform | Stack | Links |
+|---|---|---|---|
+| **OffGridDoc** — on-device OCR & PII redaction | Web (PWA) | React 19 · TypeScript · Tesseract.js · PDF.js | [Live](https://offgriddoc.pages.dev/) · [Code](https://github.com/Etherdancer/offgriddoc) |
+| **Activity Log** — local-first habit & time tracker | Web (PWA) | React 19 · TypeScript · Dexie (IndexedDB) | [Live](https://activity-log-pwa.pages.dev/) · [Code](https://github.com/Etherdancer/activity-log-pwa) |
+| **Clear Space** — decentralized P2P mesh & social platform | Android | Kotlin · Compose · BLE / Wi-Fi Direct · Tor | [Code](https://github.com/Etherdancer/ClearSpace) |
+| **Window Garden Idle** — cozy botanical simulation | Android · Web | Flutter · Riverpod · Hive | [Code](https://github.com/Etherdancer/window-garden-idle) |
+
+
 ### 1. [OffGridDoc](https://github.com/Etherdancer/offgriddoc) — On-Device OCR & PII Redaction PWA
 [![Live Demo](https://img.shields.io/badge/Live_App-offgriddoc.pages.dev-4F46E5?style=flat-square&logo=cloudflarepages&logoColor=white)](https://offgriddoc.pages.dev/)
 [![GitHub Repo](https://img.shields.io/badge/Repo-Etherdancer%2Foffgriddoc-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Etherdancer/offgriddoc)
